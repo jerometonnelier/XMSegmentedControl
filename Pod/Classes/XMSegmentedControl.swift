@@ -279,7 +279,7 @@ open class XMSegmentedControl: UIView {
                 
                 switch contentType {
                 case .icon:
-                    tab.imageEdgeInsets = UIEdgeInsets(top: 12, left: 12, bottom: 12, right: 12)
+                    tab.imageEdgeInsets = UIEdgeInsets(top: 8, left: 12, bottom: 8, right: 12)
                     tab.imageView?.contentMode = UIViewContentMode.scaleAspectFit
                     tab.tintColor = i == selectedSegment ? highlightTint : tint
                     tab.setImage(segmentIcon[i], for: UIControlState())
