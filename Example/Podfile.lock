@@ -1,5 +1,5 @@
 PODS:
-  - XMSegmentedControl (0.1.4)
+  - XMSegmentedControl (0.1.5)
 
 DEPENDENCIES:
   - XMSegmentedControl (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XMSegmentedControl: d4fa9cec511244e208a235656eed3e07d1a7c0b7
+  XMSegmentedControl: 85e4cd34becc90ee4596a08a978a16c1952c478d
 
-PODFILE CHECKSUM: 23103cb9bfb0040da7a598f9ab2a2d76fdcb2354
+PODFILE CHECKSUM: 70b682828dbd71da1e36fa4b313281a8d58b6a2d
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.8.3
